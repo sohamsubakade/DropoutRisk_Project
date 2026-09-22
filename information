@@ -1,0 +1,18 @@
+Soham Sawant :  AcademnicPerformanceScreen.py , AttendenceScreen.py
+Soham Subakade : FinancialScreen.py , ProgressBar.py
+Prasad Gawade : StudentProfileScreen.py , database.py
+Yash K : ERD , PredictionResult.py , ml_predictor.py
+Rohan Kondhalkar : MainScreen.py , DummyValues
+Mehul Shinde : BehaviourScreen.py , DataCollectionScreen.py
+
+
+StudentProfileScreen.py --- > AnalyticsScreen.py
+AcademicPerformanceScreen.py ---> AcademicDashboard.py
+AttendenceScreen ---> AttendanceDashboard.py
+DataCollection.py ---> DataCollectionDashboard.py
+BehaviorScreen.py ---> BehaviorDashboard.py
+FinancialScreen.py  ---> FinanicalDashboard.py
+PredictionResults.py ---> PredictionDashboard.py
+InterventionScreen.py ---> InterventionDashboard.py
+MainDashboardScreen
+
